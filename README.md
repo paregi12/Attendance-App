@@ -1,5 +1,4 @@
-# Attendance-App
-🔹 Attendance App Full Blueprint
+# Attendance-App Blueprint 
 
 1. Login System
 
